@@ -1,0 +1,5 @@
+begin
+c3Inject tedy (0,-1) (0,-1) (0,-1)
+setSIVisible "left" false
+flagOperation "gameProgress" += 1
+ending

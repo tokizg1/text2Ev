@@ -1,0 +1,22 @@
+{
+	"events": [
+		{
+			"index": 0,
+			"actorType": "begin",
+			"arguments": []
+		},
+		{
+			"index": 1,
+			"actorType": "textWindow",
+			"arguments": [
+				"",
+				"こんにちは！"
+			]
+		},
+		{
+			"index": 2,
+			"actorType": "ending",
+			"arguments": []
+		}
+	]
+}
